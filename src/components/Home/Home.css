@@ -1,0 +1,14 @@
+body{
+    background-color: #1C2128;
+    color: white;
+    font-size: 25px;
+}
+
+.home .header {
+    background: red;
+    
+}
+
+.header-text {
+    text-align: center;
+}
