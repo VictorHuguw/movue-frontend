@@ -12,3 +12,10 @@ body{
 .header-text {
     text-align: center;
 }
+
+.card:hover{ 
+    box-shadow: 1px 8px 20px grey;
+   -webkit-transition:  box-shadow .6s ease-in;
+   transform: scale(1.1);
+   z-index: 1000;
+ }
